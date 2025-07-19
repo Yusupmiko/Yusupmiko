@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Project Aplication** 🚀
 - 🌱 I’m currently learning **JavaScript**
+- 👯 I’m looking to collaborate on **Frontend Development**
 ![Hy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm01Z2Q4OHhybHpkZTl6YnVvd2dvdmYzcHV5aHl5aXBoZmt2aGYxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SpopD7IQN2gK3qN4jS/giphy.gif)
