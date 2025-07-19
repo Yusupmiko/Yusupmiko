@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I`m Yusup Miko 👋
 
 <!--
 **Yusupmiko/Yusupmiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **Project Aplication** 🚀
+- 🌱 I’m currently learning **JavaScript**
+![Hy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm01Z2Q4OHhybHpkZTl6YnVvd2dvdmYzcHV5aHl5aXBoZmt2aGYxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SpopD7IQN2gK3qN4jS/giphy.gif)
